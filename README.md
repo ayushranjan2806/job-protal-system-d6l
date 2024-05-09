@@ -1,4 +1,4 @@
-# 💻 REACT Job-portal-system 
+# 💻 REACT Job-Portal-System 
 
 ## 📚 Description
 Job protol system using react -redux for apply searching and post the job
