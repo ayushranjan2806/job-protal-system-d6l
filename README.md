@@ -1,4 +1,4 @@
-# 💻 REACT Kanban board quicksell
+# 💻 REACT Job-portal-system 
 
 ## 📚 Description
 Job protol system using react -redux for apply searching and post the job
