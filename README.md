@@ -8,7 +8,7 @@ Job protol system using react -redux for apply searching and post the job
 
 1) ISHITA GUPTA
 2) YAMINI YADAV
-3) ISHIKA ShARMA
+3) ISHIKA SHARMA
 4) AYUSH RANJAN
 
 
