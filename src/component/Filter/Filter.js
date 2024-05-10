@@ -1,10 +1,10 @@
-// Importing useState hook from React library
+// Importing useState hook 
 import { useState } from "react";
 
 // Importing CSS styles
 import "./index.css";
 
-// Defining experience levels
+// Defining experience 
 const experience = [
   { min: 0, max: 1 },
   { min: 2, max: 3 },
@@ -118,4 +118,4 @@ const Filter = ({
   );
 };
 
-export default Filter; // Exporting Filter component
+export default Filter; 
